@@ -12,6 +12,7 @@ After data preparation, several classification models were evaluated using the 5
 Random Forest Classifier Results:
 
 + Attained 79% accuracy on the test data.
+
 XGBOOST Results:
 
 + Attained 79% accuracy on the test data
